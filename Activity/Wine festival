@@ -4,8 +4,9 @@
     <title>Wine Festival Schedule</title>
 </head>
 <body>
+    <center>
     <div class="container">
-        <table>
+        <table border="3">
             <thead>
                 <tr>
                     <th colspan="2"><h1>Wine Festival Schedule</h1></th>
@@ -39,5 +40,6 @@
             </tbody>
         </table>
     </div>
+    </center>
 </body>
 </html>
